@@ -13,4 +13,7 @@
     <transfer name="PaymentMethods">
     </transfer>
 
+    <transfer name="QuoteResponse">
+    </transfer>
+
 </transfers>
